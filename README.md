@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-media-query-gOwiA5OCy2)
+- Live Site URL: [Live site](https://mkerr-github.github.io/Blog-preview-card/)
 
 ## My process
 
