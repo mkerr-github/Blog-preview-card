@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-media-query-gOwiA5OCy2)
-- Live Site URL: [Live site](https://mkerr-github.github.io/Blog-preview-card/)
+- Live Site URL: [Live site](https://mkerr-github.github.io/blog-preview-card/)
 
 ## My process
 
